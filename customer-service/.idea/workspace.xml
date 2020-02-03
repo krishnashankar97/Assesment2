@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="186c5513-c8cd-4b9d-91dd-4a5a999ae233" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XGtgvmmxclPfgMeJYPkaLXJQlO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.northwind.shipping.api" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.northwind.customerservice.Application" />
+      <module name="customer-service.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.northwind.customerservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="186c5513-c8cd-4b9d-91dd-4a5a999ae233" name="Default Changelist" comment="" />
+      <created>1580684374031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580684374031</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="53" key="#Project_Structure" timestamp="1580693177908">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="240" y="53" key="#Project_Structure/0.23.1280.726@0.23.1280.726" timestamp="1580693177908" />
+    <state x="453" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1580761189403">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="453" y="81" key="#com.intellij.ide.util.MemberChooser/0.23.1280.726@0.23.1280.726" timestamp="1580761189403" />
+    <state x="412" y="251" width="455" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580694577254">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="412" y="251" width="455" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1280.726@0.23.1280.726" timestamp="1580694577254" />
+    <state x="378" y="141" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580693863279">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="378" y="141" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.726@0.23.1280.726" timestamp="1580693863279" />
+    <state width="1238" height="205" key="GridCell.Tab.0.bottom" timestamp="1580761381893">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1238" height="205" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1580761381893" />
+    <state width="1238" height="205" key="GridCell.Tab.0.center" timestamp="1580761381892">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1238" height="205" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1580761381892" />
+    <state width="1238" height="205" key="GridCell.Tab.0.left" timestamp="1580761381891">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1238" height="205" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1580761381891" />
+    <state width="1238" height="205" key="GridCell.Tab.0.right" timestamp="1580761381892">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1238" height="205" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1580761381892" />
+    <state x="296" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1580705351581">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="296" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.726@0.23.1280.726" timestamp="1580705351581" />
+    <state x="347" y="23" key="refactoring.ChangeSignatureDialog" timestamp="1580743750430">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="347" y="23" key="refactoring.ChangeSignatureDialog/0.23.1280.726@0.23.1280.726" timestamp="1580743750430" />
+    <state x="305" y="73" width="670" height="676" key="search.everywhere.popup" timestamp="1580733885860">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="305" y="73" width="670" height="676" key="search.everywhere.popup/0.23.1280.726@0.23.1280.726" timestamp="1580733885860" />
+  </component>
+</project>
